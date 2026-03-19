@@ -228,7 +228,7 @@ static bool lpuartCheckPins(int8_t rxPin, int8_t txPin, int8_t ctsPin, int8_t rt
 // Issues all error messages for any invalid pins, then returns true or false
 static bool _uartValidatePins(uint8_t uart_num, int8_t rxPin, int8_t txPin, int8_t ctsPin, int8_t rtsPin) {
   if (uart_num >= SOC_UART_NUM) {
-    log_e("Serial number is invalid, please use number from 0 to %u", SOC_UART_NUM - 1);
+    log_e("UART number is invalid, please use number from 0 to %u", SOC_UART_NUM - 1);
     return false;
   }
 
