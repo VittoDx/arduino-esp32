@@ -850,7 +850,7 @@
                     },
 {"name": "libraries/WiFi/examples/WiFiMulti",
                     "sizes": [{
-                            "flash_bytes": 921147,
+                            "flash_bytes": 921139,
                             "flash_percentage": 70,
                             "ram_bytes": 40964,
                             "ram_percentage": 12

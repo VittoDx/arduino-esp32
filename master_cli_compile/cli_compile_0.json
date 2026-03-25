@@ -20,7 +20,7 @@
                     },
 {"name": "libraries/AsyncUDP/examples/AsyncUDPClient",
                     "sizes": [{
-                            "flash_bytes": 903540,
+                            "flash_bytes": 903524,
                             "flash_percentage": 68,
                             "ram_bytes": 45384,
                             "ram_percentage": 13
@@ -834,7 +834,7 @@
                 "sketches": [
 {"name": "libraries/ArduinoOTA/examples/BasicOTA",
                     "sizes": [{
-                            "flash_bytes": 905016,
+                            "flash_bytes": 905008,
                             "flash_percentage": 69,
                             "ram_bytes": 46420,
                             "ram_percentage": 14
