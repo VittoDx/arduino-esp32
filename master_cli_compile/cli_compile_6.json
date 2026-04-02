@@ -898,7 +898,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterComposedLights",
                     "sizes": [{
-                            "flash_bytes": 1666143,
+                            "flash_bytes": 1666135,
                             "flash_percentage": 52,
                             "ram_bytes": 94460,
                             "ram_percentage": 28
