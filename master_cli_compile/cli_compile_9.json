@@ -36,7 +36,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterWindowCovering",
                     "sizes": [{
-                            "flash_bytes": 1763470,
+                            "flash_bytes": 1763454,
                             "flash_percentage": 56,
                             "ram_bytes": 108712,
                             "ram_percentage": 33
