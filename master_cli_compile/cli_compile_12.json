@@ -398,23 +398,23 @@
                     },
 {"name": "libraries/Zigbee/examples/Zigbee_Analog_Input_Output",
                     "sizes": [{
-                            "flash_bytes": 764263,
+                            "flash_bytes": 764485,
                             "flash_percentage": 58,
-                            "ram_bytes": 40724,
+                            "ram_bytes": 40756,
                             "ram_percentage": 12
                             }]
                     },
 {"name": "libraries/Zigbee/examples/Zigbee_Binary_Input_Output",
                     "sizes": [{
-                            "flash_bytes": 640721,
+                            "flash_bytes": 640943,
                             "flash_percentage": 48,
-                            "ram_bytes": 37124,
+                            "ram_bytes": 37156,
                             "ram_percentage": 11
                             }]
                     },
 {"name": "libraries/Zigbee/examples/Zigbee_CarbonDioxide_Sensor",
                     "sizes": [{
-                            "flash_bytes": 639955,
+                            "flash_bytes": 640177,
                             "flash_percentage": 48,
                             "ram_bytes": 36764,
                             "ram_percentage": 11
@@ -422,15 +422,15 @@
                     },
 {"name": "libraries/Zigbee/examples/Zigbee_Color_Dimmable_Light",
                     "sizes": [{
-                            "flash_bytes": 682839,
+                            "flash_bytes": 683065,
                             "flash_percentage": 52,
-                            "ram_bytes": 37024,
+                            "ram_bytes": 37040,
                             "ram_percentage": 11
                             }]
                     },
 {"name": "libraries/Zigbee/examples/Zigbee_Color_Dimmer_Switch",
                     "sizes": [{
-                            "flash_bytes": 777293,
+                            "flash_bytes": 777515,
                             "flash_percentage": 59,
                             "ram_bytes": 40292,
                             "ram_percentage": 12
@@ -438,9 +438,9 @@
                     },
 {"name": "libraries/Zigbee/examples/Zigbee_Contact_Switch",
                     "sizes": [{
-                            "flash_bytes": 638643,
+                            "flash_bytes": 638865,
                             "flash_percentage": 48,
-                            "ram_bytes": 36764,
+                            "ram_bytes": 36780,
                             "ram_percentage": 11
                             }]
                     }
@@ -571,31 +571,31 @@
                     },
 {"name": "libraries/Zigbee/examples/Zigbee_Analog_Input_Output",
                     "sizes": [{
-                            "flash_bytes": 706286,
+                            "flash_bytes": 706508,
                             "flash_percentage": 53,
-                            "ram_bytes": 36184,
+                            "ram_bytes": 36216,
                             "ram_percentage": 11
                             }]
                     },
 {"name": "libraries/Zigbee/examples/Zigbee_Binary_Input_Output",
                     "sizes": [{
-                            "flash_bytes": 583606,
+                            "flash_bytes": 583828,
                             "flash_percentage": 44,
-                            "ram_bytes": 32576,
+                            "ram_bytes": 32592,
                             "ram_percentage": 9
                             }]
                     },
 {"name": "libraries/Zigbee/examples/Zigbee_CarbonDioxide_Sensor",
                     "sizes": [{
-                            "flash_bytes": 581722,
+                            "flash_bytes": 581944,
                             "flash_percentage": 44,
-                            "ram_bytes": 32160,
+                            "ram_bytes": 32176,
                             "ram_percentage": 9
                             }]
                     },
 {"name": "libraries/Zigbee/examples/Zigbee_Color_Dimmable_Light",
                     "sizes": [{
-                            "flash_bytes": 625796,
+                            "flash_bytes": 626022,
                             "flash_percentage": 47,
                             "ram_bytes": 33044,
                             "ram_percentage": 10
@@ -632,31 +632,31 @@
                     },
 {"name": "libraries/Zigbee/examples/Zigbee_Analog_Input_Output",
                     "sizes": [{
-                            "flash_bytes": 703451,
+                            "flash_bytes": 703673,
                             "flash_percentage": 53,
-                            "ram_bytes": 34628,
+                            "ram_bytes": 34660,
                             "ram_percentage": 10
                             }]
                     },
 {"name": "libraries/Zigbee/examples/Zigbee_Binary_Input_Output",
                     "sizes": [{
-                            "flash_bytes": 581031,
+                            "flash_bytes": 581253,
                             "flash_percentage": 44,
-                            "ram_bytes": 31028,
+                            "ram_bytes": 31044,
                             "ram_percentage": 9
                             }]
                     },
 {"name": "libraries/Zigbee/examples/Zigbee_CarbonDioxide_Sensor",
                     "sizes": [{
-                            "flash_bytes": 579497,
+                            "flash_bytes": 579719,
                             "flash_percentage": 44,
-                            "ram_bytes": 30684,
+                            "ram_bytes": 30700,
                             "ram_percentage": 9
                             }]
                     },
 {"name": "libraries/Zigbee/examples/Zigbee_Color_Dimmable_Light",
                     "sizes": [{
-                            "flash_bytes": 623247,
+                            "flash_bytes": 623473,
                             "flash_percentage": 47,
                             "ram_bytes": 31552,
                             "ram_percentage": 9
@@ -664,7 +664,7 @@
                     },
 {"name": "libraries/Zigbee/examples/Zigbee_Color_Dimmer_Switch",
                     "sizes": [{
-                            "flash_bytes": 716173,
+                            "flash_bytes": 716395,
                             "flash_percentage": 54,
                             "ram_bytes": 34220,
                             "ram_percentage": 10
@@ -672,7 +672,7 @@
                     },
 {"name": "libraries/Zigbee/examples/Zigbee_Contact_Switch",
                     "sizes": [{
-                            "flash_bytes": 586309,
+                            "flash_bytes": 586531,
                             "flash_percentage": 44,
                             "ram_bytes": 30716,
                             "ram_percentage": 9
@@ -680,7 +680,7 @@
                     },
 {"name": "libraries/Zigbee/examples/Zigbee_Dimmable_Light",
                     "sizes": [{
-                            "flash_bytes": 602433,
+                            "flash_bytes": 602655,
                             "flash_percentage": 45,
                             "ram_bytes": 31520,
                             "ram_percentage": 9
@@ -688,17 +688,17 @@
                     },
 {"name": "libraries/Zigbee/examples/Zigbee_Electrical_AC_Sensor",
                     "sizes": [{
-                            "flash_bytes": 706053,
+                            "flash_bytes": 706275,
                             "flash_percentage": 53,
-                            "ram_bytes": 34372,
+                            "ram_bytes": 34388,
                             "ram_percentage": 10
                             }]
                     },
 {"name": "libraries/Zigbee/examples/Zigbee_Electrical_AC_Sensor_MultiPhase",
                     "sizes": [{
-                            "flash_bytes": 705897,
+                            "flash_bytes": 706119,
                             "flash_percentage": 53,
-                            "ram_bytes": 34372,
+                            "ram_bytes": 34388,
                             "ram_percentage": 10
                             }]
                     }
