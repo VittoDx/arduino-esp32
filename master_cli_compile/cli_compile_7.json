@@ -946,7 +946,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterTemperatureSensor",
                     "sizes": [{
-                            "flash_bytes": 1638935,
+                            "flash_bytes": 1638927,
                             "flash_percentage": 52,
                             "ram_bytes": 94276,
                             "ram_percentage": 28

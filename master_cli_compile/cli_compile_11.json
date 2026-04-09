@@ -773,7 +773,7 @@
                     },
 {"name": "libraries/Update/examples/Signed_OTA_Update",
                     "sizes": [{
-                            "flash_bytes": 1042900,
+                            "flash_bytes": 1042960,
                             "flash_percentage": 79,
                             "ram_bytes": 32208,
                             "ram_percentage": 9
@@ -866,7 +866,7 @@
                     },
 {"name": "libraries/Update/examples/Signed_OTA_Update",
                     "sizes": [{
-                            "flash_bytes": 990360,
+                            "flash_bytes": 990408,
                             "flash_percentage": 75,
                             "ram_bytes": 42572,
                             "ram_percentage": 12
@@ -1023,7 +1023,7 @@
                     },
 {"name": "libraries/Update/examples/Signed_OTA_Update",
                     "sizes": [{
-                            "flash_bytes": 1027923,
+                            "flash_bytes": 1027975,
                             "flash_percentage": 78,
                             "ram_bytes": 46664,
                             "ram_percentage": 14
