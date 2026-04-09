@@ -1031,7 +1031,7 @@
                     },
 {"name": "libraries/WiFi/examples/WiFiScanDualAntenna",
                     "sizes": [{
-                            "flash_bytes": 859094,
+                            "flash_bytes": 859110,
                             "flash_percentage": 65,
                             "ram_bytes": 44408,
                             "ram_percentage": 13

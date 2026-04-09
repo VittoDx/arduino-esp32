@@ -874,7 +874,7 @@
                     },
 {"name": "libraries/SPIFFS/examples/SPIFFS_time",
                     "sizes": [{
-                            "flash_bytes": 879995,
+                            "flash_bytes": 880003,
                             "flash_percentage": 67,
                             "ram_bytes": 41716,
                             "ram_percentage": 12
