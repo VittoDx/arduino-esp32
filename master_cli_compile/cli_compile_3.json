@@ -12,7 +12,7 @@
                     },
 {"name": "libraries/ESP32/examples/DeepSleep/ExternalWakeUp",
                     "sizes": [{
-                            "flash_bytes": 301200,
+                            "flash_bytes": 301208,
                             "flash_percentage": 22,
                             "ram_bytes": 22252,
                             "ram_percentage": 6
@@ -20,7 +20,7 @@
                     },
 {"name": "libraries/ESP32/examples/DeepSleep/SmoothBlink_ULP_Code",
                     "sizes": [{
-                            "flash_bytes": 303992,
+                            "flash_bytes": 304000,
                             "flash_percentage": 23,
                             "ram_bytes": 22244,
                             "ram_percentage": 6
@@ -28,7 +28,7 @@
                     },
 {"name": "libraries/ESP32/examples/DeepSleep/TimerWakeUp",
                     "sizes": [{
-                            "flash_bytes": 300792,
+                            "flash_bytes": 300800,
                             "flash_percentage": 22,
                             "ram_bytes": 22252,
                             "ram_percentage": 6
@@ -36,7 +36,7 @@
                     },
 {"name": "libraries/ESP32/examples/DeepSleep/TouchWakeUp",
                     "sizes": [{
-                            "flash_bytes": 315508,
+                            "flash_bytes": 315516,
                             "flash_percentage": 24,
                             "ram_bytes": 22508,
                             "ram_percentage": 6
@@ -132,7 +132,7 @@
                     },
 {"name": "libraries/ESP32/examples/RMT/RMTCallback",
                     "sizes": [{
-                            "flash_bytes": 310293,
+                            "flash_bytes": 310301,
                             "flash_percentage": 23,
                             "ram_bytes": 23684,
                             "ram_percentage": 7
@@ -140,7 +140,7 @@
                     },
 {"name": "libraries/ESP32/examples/RMT/RMTLoopback",
                     "sizes": [{
-                            "flash_bytes": 311661,
+                            "flash_bytes": 311669,
                             "flash_percentage": 23,
                             "ram_bytes": 24916,
                             "ram_percentage": 7
@@ -398,7 +398,7 @@
                     },
 {"name": "libraries/ESP32/examples/Serial/BaudRateDetect_Demo",
                     "sizes": [{
-                            "flash_bytes": 290548,
+                            "flash_bytes": 290756,
                             "flash_percentage": 22,
                             "ram_bytes": 17276,
                             "ram_percentage": 5
@@ -555,7 +555,7 @@
                     },
 {"name": "libraries/ESP32/examples/Serial/BaudRateDetect_Demo",
                     "sizes": [{
-                            "flash_bytes": 249696,
+                            "flash_bytes": 249906,
                             "flash_percentage": 19,
                             "ram_bytes": 13756,
                             "ram_percentage": 4
@@ -850,7 +850,7 @@
                     },
 {"name": "libraries/ESP32/examples/Serial/BaudRateDetect_Demo",
                     "sizes": [{
-                            "flash_bytes": 253468,
+                            "flash_bytes": 253528,
                             "flash_percentage": 19,
                             "ram_bytes": 16504,
                             "ram_percentage": 5
@@ -1095,7 +1095,7 @@
                     },
 {"name": "libraries/ESP32/examples/Serial/BaudRateDetect_Demo",
                     "sizes": [{
-                            "flash_bytes": 290141,
+                            "flash_bytes": 290225,
                             "flash_percentage": 22,
                             "ram_bytes": 21908,
                             "ram_percentage": 6

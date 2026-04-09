@@ -4,7 +4,7 @@
                 "sketches": [
 {"name": "libraries/Console/examples/ConsoleSysInfo",
                     "sizes": [{
-                            "flash_bytes": 333244,
+                            "flash_bytes": 333252,
                             "flash_percentage": 25,
                             "ram_bytes": 22324,
                             "ram_percentage": 6
@@ -20,7 +20,7 @@
                     },
 {"name": "libraries/DNSServer/examples/CaptivePortal",
                     "sizes": [{
-                            "flash_bytes": 955456,
+                            "flash_bytes": 955440,
                             "flash_percentage": 72,
                             "ram_bytes": 47136,
                             "ram_percentage": 14
@@ -52,7 +52,7 @@
                     },
 {"name": "libraries/ESP32/examples/AnalogOut/LEDCFade",
                     "sizes": [{
-                            "flash_bytes": 304987,
+                            "flash_bytes": 304995,
                             "flash_percentage": 23,
                             "ram_bytes": 22360,
                             "ram_percentage": 6
@@ -60,7 +60,7 @@
                     },
 {"name": "libraries/ESP32/examples/AnalogOut/LEDCSingleChannel",
                     "sizes": [{
-                            "flash_bytes": 287459,
+                            "flash_bytes": 287467,
                             "flash_percentage": 21,
                             "ram_bytes": 22352,
                             "ram_percentage": 6
@@ -68,7 +68,7 @@
                     },
 {"name": "libraries/ESP32/examples/AnalogOut/LEDCSoftwareFade",
                     "sizes": [{
-                            "flash_bytes": 287571,
+                            "flash_bytes": 287579,
                             "flash_percentage": 21,
                             "ram_bytes": 22352,
                             "ram_percentage": 6
@@ -84,7 +84,7 @@
                     },
 {"name": "libraries/ESP32/examples/AnalogOut/ledcFrequency",
                     "sizes": [{
-                            "flash_bytes": 289375,
+                            "flash_bytes": 289383,
                             "flash_percentage": 22,
                             "ram_bytes": 22352,
                             "ram_percentage": 6
@@ -92,7 +92,7 @@
                     },
 {"name": "libraries/ESP32/examples/AnalogOut/ledcWrite_RGB",
                     "sizes": [{
-                            "flash_bytes": 301819,
+                            "flash_bytes": 301827,
                             "flash_percentage": 23,
                             "ram_bytes": 22368,
                             "ram_percentage": 6
@@ -132,7 +132,7 @@
                     },
 {"name": "libraries/ESP32/examples/CI/CIBoardsTest",
                     "sizes": [{
-                            "flash_bytes": 323360,
+                            "flash_bytes": 323368,
                             "flash_percentage": 24,
                             "ram_bytes": 23636,
                             "ram_percentage": 7
@@ -140,7 +140,7 @@
                     },
 {"name": "libraries/ESP32/examples/Camera/CameraWebServer",
                     "sizes": [{
-                            "flash_bytes": 1059029,
+                            "flash_bytes": 1059021,
                             "flash_percentage": 6,
                             "ram_bytes": 69384,
                             "ram_percentage": 21

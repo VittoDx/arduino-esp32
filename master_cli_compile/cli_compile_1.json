@@ -100,7 +100,7 @@
                     },
 {"name": "libraries/Console/examples/ConsoleAdvanced",
                     "sizes": [{
-                            "flash_bytes": 336756,
+                            "flash_bytes": 336764,
                             "flash_percentage": 10,
                             "ram_bytes": 22340,
                             "ram_percentage": 6
@@ -108,7 +108,7 @@
                     },
 {"name": "libraries/Console/examples/ConsoleBasic",
                     "sizes": [{
-                            "flash_bytes": 331492,
+                            "flash_bytes": 331500,
                             "flash_percentage": 10,
                             "ram_bytes": 22324,
                             "ram_percentage": 6
@@ -116,7 +116,7 @@
                     },
 {"name": "libraries/Console/examples/ConsoleFS",
                     "sizes": [{
-                            "flash_bytes": 370384,
+                            "flash_bytes": 370392,
                             "flash_percentage": 11,
                             "ram_bytes": 22732,
                             "ram_percentage": 6
@@ -124,7 +124,7 @@
                     },
 {"name": "libraries/Console/examples/ConsoleGPIO",
                     "sizes": [{
-                            "flash_bytes": 336092,
+                            "flash_bytes": 336100,
                             "flash_percentage": 10,
                             "ram_bytes": 22356,
                             "ram_percentage": 6
@@ -132,7 +132,7 @@
                     },
 {"name": "libraries/Console/examples/ConsoleHistory",
                     "sizes": [{
-                            "flash_bytes": 369952,
+                            "flash_bytes": 369960,
                             "flash_percentage": 11,
                             "ram_bytes": 22484,
                             "ram_percentage": 6
@@ -140,7 +140,7 @@
                     },
 {"name": "libraries/Console/examples/ConsoleManual",
                     "sizes": [{
-                            "flash_bytes": 307504,
+                            "flash_bytes": 307512,
                             "flash_percentage": 9,
                             "ram_bytes": 22324,
                             "ram_percentage": 6

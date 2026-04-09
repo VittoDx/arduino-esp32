@@ -4,7 +4,7 @@
                 "sketches": [
 {"name": "libraries/ESP32/examples/RMT/RMTReadXJT",
                     "sizes": [{
-                            "flash_bytes": 310769,
+                            "flash_bytes": 310777,
                             "flash_percentage": 23,
                             "ram_bytes": 23468,
                             "ram_percentage": 7
@@ -12,7 +12,7 @@
                     },
 {"name": "libraries/ESP32/examples/RMT/RMTWrite_RGB_LED",
                     "sizes": [{
-                            "flash_bytes": 309417,
+                            "flash_bytes": 309425,
                             "flash_percentage": 23,
                             "ram_bytes": 25940,
                             "ram_percentage": 7
@@ -20,7 +20,7 @@
                     },
 {"name": "libraries/ESP32/examples/RMT/RMT_CPUFreq_Test",
                     "sizes": [{
-                            "flash_bytes": 310185,
+                            "flash_bytes": 310193,
                             "flash_percentage": 23,
                             "ram_bytes": 22876,
                             "ram_percentage": 6
@@ -28,7 +28,7 @@
                     },
 {"name": "libraries/ESP32/examples/RMT/RMT_EndOfTransmissionState",
                     "sizes": [{
-                            "flash_bytes": 309849,
+                            "flash_bytes": 309857,
                             "flash_percentage": 23,
                             "ram_bytes": 22932,
                             "ram_percentage": 6
@@ -36,7 +36,7 @@
                     },
 {"name": "libraries/ESP32/examples/RMT/RMT_LED_Blink",
                     "sizes": [{
-                            "flash_bytes": 312093,
+                            "flash_bytes": 312101,
                             "flash_percentage": 23,
                             "ram_bytes": 22980,
                             "ram_percentage": 7
@@ -44,7 +44,7 @@
                     },
 {"name": "libraries/ESP32/examples/ResetReason/ResetReason",
                     "sizes": [{
-                            "flash_bytes": 301120,
+                            "flash_bytes": 301128,
                             "flash_percentage": 22,
                             "ram_bytes": 22244,
                             "ram_percentage": 6
@@ -60,7 +60,7 @@
                     },
 {"name": "libraries/ESP32/examples/Serial/BaudRateDetect_Demo",
                     "sizes": [{
-                            "flash_bytes": 293248,
+                            "flash_bytes": 293316,
                             "flash_percentage": 22,
                             "ram_bytes": 22148,
                             "ram_percentage": 6
@@ -161,7 +161,7 @@
                     },
 {"name": "libraries/ESP32/examples/Serial/BaudRateDetect_Demo",
                     "sizes": [{
-                            "flash_bytes": 273700,
+                            "flash_bytes": 273798,
                             "flash_percentage": 20,
                             "ram_bytes": 13164,
                             "ram_percentage": 4
@@ -789,7 +789,7 @@
                     },
 {"name": "libraries/ESP32/examples/Serial/BaudRateDetect_Demo",
                     "sizes": [{
-                            "flash_bytes": 318170,
+                            "flash_bytes": 318624,
                             "flash_percentage": 24,
                             "ram_bytes": 23412,
                             "ram_percentage": 7

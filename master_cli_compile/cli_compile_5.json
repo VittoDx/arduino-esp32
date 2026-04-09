@@ -52,7 +52,7 @@
                     },
 {"name": "libraries/ESP32/examples/Touch/TouchButton",
                     "sizes": [{
-                            "flash_bytes": 308408,
+                            "flash_bytes": 308416,
                             "flash_percentage": 23,
                             "ram_bytes": 22460,
                             "ram_percentage": 6
@@ -60,7 +60,7 @@
                     },
 {"name": "libraries/ESP32/examples/Touch/TouchInterrupt",
                     "sizes": [{
-                            "flash_bytes": 308304,
+                            "flash_bytes": 308312,
                             "flash_percentage": 23,
                             "ram_bytes": 22460,
                             "ram_percentage": 6
@@ -68,7 +68,7 @@
                     },
 {"name": "libraries/ESP32/examples/Touch/TouchRead",
                     "sizes": [{
-                            "flash_bytes": 308168,
+                            "flash_bytes": 308176,
                             "flash_percentage": 23,
                             "ram_bytes": 22452,
                             "ram_percentage": 6
@@ -92,7 +92,7 @@
                     },
 {"name": "libraries/ESP_I2S/examples/Simple_tone",
                     "sizes": [{
-                            "flash_bytes": 317416,
+                            "flash_bytes": 317424,
                             "flash_percentage": 24,
                             "ram_bytes": 22420,
                             "ram_percentage": 6
@@ -140,7 +140,7 @@
                     },
 {"name": "libraries/ESPmDNS/examples/mDNS_Web_Server",
                     "sizes": [{
-                            "flash_bytes": 952236,
+                            "flash_bytes": 952220,
                             "flash_percentage": 72,
                             "ram_bytes": 49080,
                             "ram_percentage": 14
@@ -624,7 +624,7 @@
                     },
 {"name": "libraries/ESP32/examples/Serial/BaudRateDetect_Demo",
                     "sizes": [{
-                            "flash_bytes": 275260,
+                            "flash_bytes": 275410,
                             "flash_percentage": 21,
                             "ram_bytes": 13676,
                             "ram_percentage": 4

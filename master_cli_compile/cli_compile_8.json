@@ -12,7 +12,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterFan",
                     "sizes": [{
-                            "flash_bytes": 1763258,
+                            "flash_bytes": 1763266,
                             "flash_percentage": 56,
                             "ram_bytes": 108752,
                             "ram_percentage": 33
@@ -20,7 +20,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterHumiditySensor",
                     "sizes": [{
-                            "flash_bytes": 1738335,
+                            "flash_bytes": 1738319,
                             "flash_percentage": 55,
                             "ram_bytes": 108272,
                             "ram_percentage": 33
@@ -44,7 +44,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterOccupancySensor",
                     "sizes": [{
-                            "flash_bytes": 1739779,
+                            "flash_bytes": 1739763,
                             "flash_percentage": 55,
                             "ram_bytes": 108296,
                             "ram_percentage": 33
@@ -52,7 +52,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterOccupancyWithHoldTime",
                     "sizes": [{
-                            "flash_bytes": 1743215,
+                            "flash_bytes": 1743199,
                             "flash_percentage": 55,
                             "ram_bytes": 108312,
                             "ram_percentage": 33
@@ -76,7 +76,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterOnOffPlugin",
                     "sizes": [{
-                            "flash_bytes": 1747535,
+                            "flash_bytes": 1747519,
                             "flash_percentage": 55,
                             "ram_bytes": 108304,
                             "ram_percentage": 33
@@ -84,7 +84,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterPressureSensor",
                     "sizes": [{
-                            "flash_bytes": 1738351,
+                            "flash_bytes": 1738335,
                             "flash_percentage": 55,
                             "ram_bytes": 108272,
                             "ram_percentage": 33
@@ -140,7 +140,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterTemperatureLight",
                     "sizes": [{
-                            "flash_bytes": 1776298,
+                            "flash_bytes": 1776290,
                             "flash_percentage": 56,
                             "ram_bytes": 108544,
                             "ram_percentage": 33
@@ -1023,7 +1023,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterWindowCovering",
                     "sizes": [{
-                            "flash_bytes": 1877583,
+                            "flash_bytes": 1877599,
                             "flash_percentage": 59,
                             "ram_bytes": 109116,
                             "ram_percentage": 33
@@ -1055,7 +1055,7 @@
                     },
 {"name": "libraries/NetworkClientSecure/examples/WiFiClientSecure",
                     "sizes": [{
-                            "flash_bytes": 961122,
+                            "flash_bytes": 961106,
                             "flash_percentage": 30,
                             "ram_bytes": 46224,
                             "ram_percentage": 14

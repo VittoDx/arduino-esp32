@@ -4,7 +4,7 @@
                 "sketches": [
 {"name": "libraries/Ethernet/examples/ETH_LAN8720",
                     "sizes": [{
-                            "flash_bytes": 521800,
+                            "flash_bytes": 521784,
                             "flash_percentage": 39,
                             "ram_bytes": 27244,
                             "ram_percentage": 8
@@ -12,7 +12,7 @@
                     },
 {"name": "libraries/Ethernet/examples/ETH_TLK110",
                     "sizes": [{
-                            "flash_bytes": 521800,
+                            "flash_bytes": 521784,
                             "flash_percentage": 39,
                             "ram_bytes": 27244,
                             "ram_percentage": 8
@@ -20,7 +20,7 @@
                     },
 {"name": "libraries/Ethernet/examples/ETH_W5500_Arduino_SPI",
                     "sizes": [{
-                            "flash_bytes": 557382,
+                            "flash_bytes": 557390,
                             "flash_percentage": 42,
                             "ram_bytes": 27864,
                             "ram_percentage": 8
@@ -28,7 +28,7 @@
                     },
 {"name": "libraries/Ethernet/examples/ETH_W5500_IDF_SPI",
                     "sizes": [{
-                            "flash_bytes": 555838,
+                            "flash_bytes": 555846,
                             "flash_percentage": 42,
                             "ram_bytes": 27864,
                             "ram_percentage": 8
@@ -36,7 +36,7 @@
                     },
 {"name": "libraries/Ethernet/examples/ETH_WIFI_BRIDGE",
                     "sizes": [{
-                            "flash_bytes": 999230,
+                            "flash_bytes": 999238,
                             "flash_percentage": 76,
                             "ram_bytes": 46436,
                             "ram_percentage": 14
@@ -76,7 +76,7 @@
                     },
 {"name": "libraries/HTTPClient/examples/BasicHttpsClient",
                     "sizes": [{
-                            "flash_bytes": 1089476,
+                            "flash_bytes": 1089460,
                             "flash_percentage": 83,
                             "ram_bytes": 48780,
                             "ram_percentage": 14
@@ -124,7 +124,7 @@
                     },
 {"name": "libraries/HTTPUpdate/examples/httpUpdateSPIFFS",
                     "sizes": [{
-                            "flash_bytes": 1068592,
+                            "flash_bytes": 1068576,
                             "flash_percentage": 81,
                             "ram_bytes": 49056,
                             "ram_percentage": 14

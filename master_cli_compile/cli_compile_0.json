@@ -20,7 +20,7 @@
                     },
 {"name": "libraries/AsyncUDP/examples/AsyncUDPClient",
                     "sizes": [{
-                            "flash_bytes": 905172,
+                            "flash_bytes": 905156,
                             "flash_percentage": 69,
                             "ram_bytes": 45384,
                             "ram_percentage": 13
@@ -28,7 +28,7 @@
                     },
 {"name": "libraries/AsyncUDP/examples/AsyncUDPMulticastServer",
                     "sizes": [{
-                            "flash_bytes": 905532,
+                            "flash_bytes": 905516,
                             "flash_percentage": 69,
                             "ram_bytes": 45384,
                             "ram_percentage": 13
@@ -92,7 +92,7 @@
                     },
 {"name": "libraries/BLE/examples/EddystoneTLM_Beacon",
                     "sizes": [{
-                            "flash_bytes": 1104939,
+                            "flash_bytes": 1104947,
                             "flash_percentage": 35,
                             "ram_bytes": 41360,
                             "ram_percentage": 12
@@ -100,7 +100,7 @@
                     },
 {"name": "libraries/BLE/examples/EddystoneURL_Beacon",
                     "sizes": [{
-                            "flash_bytes": 1105355,
+                            "flash_bytes": 1105363,
                             "flash_percentage": 35,
                             "ram_bytes": 41448,
                             "ram_percentage": 12
@@ -132,7 +132,7 @@
                     },
 {"name": "libraries/BLE/examples/Server_Gamepad",
                     "sizes": [{
-                            "flash_bytes": 1116095,
+                            "flash_bytes": 1116103,
                             "flash_percentage": 35,
                             "ram_bytes": 41304,
                             "ram_percentage": 12

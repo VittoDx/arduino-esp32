@@ -36,7 +36,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterWindowCovering",
                     "sizes": [{
-                            "flash_bytes": 1763470,
+                            "flash_bytes": 1763462,
                             "flash_percentage": 56,
                             "ram_bytes": 108712,
                             "ram_percentage": 33
@@ -92,7 +92,7 @@
                     },
 {"name": "libraries/NetworkClientSecure/examples/WiFiClientShowPeerCredentials",
                     "sizes": [{
-                            "flash_bytes": 1046640,
+                            "flash_bytes": 1046648,
                             "flash_percentage": 79,
                             "ram_bytes": 48448,
                             "ram_percentage": 14
@@ -100,7 +100,7 @@
                     },
 {"name": "libraries/NetworkClientSecure/examples/WiFiClientTrustOnFirstUse",
                     "sizes": [{
-                            "flash_bytes": 1019152,
+                            "flash_bytes": 1019160,
                             "flash_percentage": 77,
                             "ram_bytes": 47240,
                             "ram_percentage": 14
@@ -108,7 +108,7 @@
                     },
 {"name": "libraries/PPP/examples/PPP_Basic",
                     "sizes": [{
-                            "flash_bytes": 537452,
+                            "flash_bytes": 537436,
                             "flash_percentage": 41,
                             "ram_bytes": 26972,
                             "ram_percentage": 8
@@ -116,7 +116,7 @@
                     },
 {"name": "libraries/PPP/examples/PPP_WIFI_BRIDGE",
                     "sizes": [{
-                            "flash_bytes": 981668,
+                            "flash_bytes": 981652,
                             "flash_percentage": 74,
                             "ram_bytes": 45512,
                             "ram_percentage": 13
@@ -874,7 +874,7 @@
                     },
 {"name": "libraries/SPIFFS/examples/SPIFFS_time",
                     "sizes": [{
-                            "flash_bytes": 880003,
+                            "flash_bytes": 879995,
                             "flash_percentage": 67,
                             "ram_bytes": 41716,
                             "ram_percentage": 12

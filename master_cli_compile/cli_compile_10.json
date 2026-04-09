@@ -12,7 +12,7 @@
                     },
 {"name": "libraries/SD_MMC/examples/SDMMC_Test",
                     "sizes": [{
-                            "flash_bytes": 376434,
+                            "flash_bytes": 376442,
                             "flash_percentage": 28,
                             "ram_bytes": 23416,
                             "ram_percentage": 7
@@ -20,7 +20,7 @@
                     },
 {"name": "libraries/SD_MMC/examples/SDMMC_time",
                     "sizes": [{
-                            "flash_bytes": 994850,
+                            "flash_bytes": 994842,
                             "flash_percentage": 75,
                             "ram_bytes": 47468,
                             "ram_percentage": 14
@@ -60,7 +60,7 @@
                     },
 {"name": "libraries/TFLiteMicro/examples/hello_world",
                     "sizes": [{
-                            "flash_bytes": 316484,
+                            "flash_bytes": 316492,
                             "flash_percentage": 24,
                             "ram_bytes": 24476,
                             "ram_percentage": 7
@@ -100,7 +100,7 @@
                     },
 {"name": "libraries/Update/examples/HTTPS_OTA_Update",
                     "sizes": [{
-                            "flash_bytes": 1032576,
+                            "flash_bytes": 1032560,
                             "flash_percentage": 78,
                             "ram_bytes": 47448,
                             "ram_percentage": 14
@@ -108,7 +108,7 @@
                     },
 {"name": "libraries/Update/examples/HTTP_Client_AES_OTA_Update",
                     "sizes": [{
-                            "flash_bytes": 971188,
+                            "flash_bytes": 971172,
                             "flash_percentage": 74,
                             "ram_bytes": 48192,
                             "ram_percentage": 14
@@ -124,7 +124,7 @@
                     },
 {"name": "libraries/Update/examples/OTAWebUpdater",
                     "sizes": [{
-                            "flash_bytes": 997851,
+                            "flash_bytes": 997835,
                             "flash_percentage": 76,
                             "ram_bytes": 49784,
                             "ram_percentage": 15
@@ -132,7 +132,7 @@
                     },
 {"name": "libraries/Update/examples/SD_Update",
                     "sizes": [{
-                            "flash_bytes": 360134,
+                            "flash_bytes": 360142,
                             "flash_percentage": 27,
                             "ram_bytes": 22944,
                             "ram_percentage": 7

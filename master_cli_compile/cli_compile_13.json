@@ -28,7 +28,7 @@
                     },
 {"name": "libraries/WiFi/examples/WiFiScanTime",
                     "sizes": [{
-                            "flash_bytes": 900996,
+                            "flash_bytes": 900980,
                             "flash_percentage": 68,
                             "ram_bytes": 45352,
                             "ram_percentage": 13
@@ -44,7 +44,7 @@
                     },
 {"name": "libraries/WiFi/examples/WiFiTelnetToSerial",
                     "sizes": [{
-                            "flash_bytes": 1018132,
+                            "flash_bytes": 1018116,
                             "flash_percentage": 77,
                             "ram_bytes": 47392,
                             "ram_percentage": 14
@@ -52,7 +52,7 @@
                     },
 {"name": "libraries/WiFi/examples/WiFiUDPClient",
                     "sizes": [{
-                            "flash_bytes": 910384,
+                            "flash_bytes": 910368,
                             "flash_percentage": 69,
                             "ram_bytes": 47016,
                             "ram_percentage": 14
@@ -68,7 +68,7 @@
                     },
 {"name": "libraries/Wire/examples/WireMaster",
                     "sizes": [{
-                            "flash_bytes": 319012,
+                            "flash_bytes": 319020,
                             "flash_percentage": 24,
                             "ram_bytes": 23540,
                             "ram_percentage": 7
@@ -76,7 +76,7 @@
                     },
 {"name": "libraries/Wire/examples/WireScan",
                     "sizes": [{
-                            "flash_bytes": 318724,
+                            "flash_bytes": 318732,
                             "flash_percentage": 24,
                             "ram_bytes": 23540,
                             "ram_percentage": 7
@@ -84,7 +84,7 @@
                     },
 {"name": "libraries/Wire/examples/WireSlave",
                     "sizes": [{
-                            "flash_bytes": 319568,
+                            "flash_bytes": 319576,
                             "flash_percentage": 24,
                             "ram_bytes": 23540,
                             "ram_percentage": 7
@@ -92,7 +92,7 @@
                     },
 {"name": "libraries/Wire/examples/WireSlaveFunctionalCallback",
                     "sizes": [{
-                            "flash_bytes": 319432,
+                            "flash_bytes": 319440,
                             "flash_percentage": 24,
                             "ram_bytes": 23540,
                             "ram_percentage": 7
@@ -1031,7 +1031,7 @@
                     },
 {"name": "libraries/WiFi/examples/WiFiScanDualAntenna",
                     "sizes": [{
-                            "flash_bytes": 859110,
+                            "flash_bytes": 859094,
                             "flash_percentage": 65,
                             "ram_bytes": 44408,
                             "ram_percentage": 13

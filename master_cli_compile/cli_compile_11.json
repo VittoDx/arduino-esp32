@@ -4,7 +4,7 @@
                 "sketches": [
 {"name": "libraries/WebServer/examples/AdvancedWebServer",
                     "sizes": [{
-                            "flash_bytes": 984351,
+                            "flash_bytes": 984335,
                             "flash_percentage": 75,
                             "ram_bytes": 49560,
                             "ram_percentage": 15
@@ -28,7 +28,7 @@
                     },
 {"name": "libraries/WebServer/examples/Filters",
                     "sizes": [{
-                            "flash_bytes": 984648,
+                            "flash_bytes": 984632,
                             "flash_percentage": 75,
                             "ram_bytes": 49456,
                             "ram_percentage": 15
@@ -36,7 +36,7 @@
                     },
 {"name": "libraries/WebServer/examples/HelloServer",
                     "sizes": [{
-                            "flash_bytes": 982872,
+                            "flash_bytes": 982856,
                             "flash_percentage": 74,
                             "ram_bytes": 49456,
                             "ram_percentage": 15
@@ -68,7 +68,7 @@
                     },
 {"name": "libraries/WebServer/examples/HttpBasicAuth",
                     "sizes": [{
-                            "flash_bytes": 1006255,
+                            "flash_bytes": 1006239,
                             "flash_percentage": 76,
                             "ram_bytes": 51840,
                             "ram_percentage": 15
@@ -124,7 +124,7 @@
                     },
 {"name": "libraries/WebServer/examples/SimpleAuthentification",
                     "sizes": [{
-                            "flash_bytes": 951076,
+                            "flash_bytes": 951060,
                             "flash_percentage": 72,
                             "ram_bytes": 47016,
                             "ram_percentage": 14
@@ -140,7 +140,7 @@
                     },
 {"name": "libraries/WebServer/examples/WebServer",
                     "sizes": [{
-                            "flash_bytes": 1045522,
+                            "flash_bytes": 1045506,
                             "flash_percentage": 79,
                             "ram_bytes": 47764,
                             "ram_percentage": 14

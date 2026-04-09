@@ -92,7 +92,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterColorLight",
                     "sizes": [{
-                            "flash_bytes": 1777442,
+                            "flash_bytes": 1777450,
                             "flash_percentage": 56,
                             "ram_bytes": 108528,
                             "ram_percentage": 33
@@ -124,7 +124,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterDimmableLight",
                     "sizes": [{
-                            "flash_bytes": 1761974,
+                            "flash_bytes": 1761982,
                             "flash_percentage": 56,
                             "ram_bytes": 108528,
                             "ram_percentage": 33
@@ -132,7 +132,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterDimmablePlugin",
                     "sizes": [{
-                            "flash_bytes": 1762054,
+                            "flash_bytes": 1762062,
                             "flash_percentage": 56,
                             "ram_bytes": 108528,
                             "ram_percentage": 33
@@ -140,7 +140,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterEnhancedColorLight",
                     "sizes": [{
-                            "flash_bytes": 1784262,
+                            "flash_bytes": 1784270,
                             "flash_percentage": 56,
                             "ram_bytes": 108568,
                             "ram_percentage": 33
@@ -946,7 +946,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterTemperatureSensor",
                     "sizes": [{
-                            "flash_bytes": 1638927,
+                            "flash_bytes": 1638935,
                             "flash_percentage": 52,
                             "ram_bytes": 94276,
                             "ram_percentage": 28
