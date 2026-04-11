@@ -2,6 +2,22 @@
 { "board": "espressif:esp32:esp32",
                 "target": "esp32",
                 "sketches": [
+{"name": "libraries/Matter/examples/MatterDimmablePlugin",
+                    "sizes": [{
+                            "flash_bytes": 1762062,
+                            "flash_percentage": 56,
+                            "ram_bytes": 108528,
+                            "ram_percentage": 33
+                            }]
+                    },
+{"name": "libraries/Matter/examples/MatterEnhancedColorLight",
+                    "sizes": [{
+                            "flash_bytes": 1784270,
+                            "flash_percentage": 56,
+                            "ram_bytes": 108568,
+                            "ram_percentage": 33
+                            }]
+                    },
 {"name": "libraries/Matter/examples/MatterEvents",
                     "sizes": [{
                             "flash_bytes": 1743191,
@@ -127,22 +143,6 @@
                             "flash_bytes": 1740063,
                             "flash_percentage": 55,
                             "ram_bytes": 108328,
-                            "ram_percentage": 33
-                            }]
-                    },
-{"name": "libraries/Matter/examples/MatterTemperatureControlledCabinetLevels",
-                    "sizes": [{
-                            "flash_bytes": 1739547,
-                            "flash_percentage": 55,
-                            "ram_bytes": 108312,
-                            "ram_percentage": 33
-                            }]
-                    },
-{"name": "libraries/Matter/examples/MatterTemperatureLight",
-                    "sizes": [{
-                            "flash_bytes": 1776290,
-                            "flash_percentage": 56,
-                            "ram_bytes": 108544,
                             "ram_percentage": 33
                             }]
                     }
@@ -898,7 +898,7 @@
                     },
 {"name": "libraries/NetworkClientSecure/examples/WiFiClientShowPeerCredentials",
                     "sizes": [{
-                            "flash_bytes": 968835,
+                            "flash_bytes": 968843,
                             "flash_percentage": 73,
                             "ram_bytes": 42156,
                             "ram_percentage": 12

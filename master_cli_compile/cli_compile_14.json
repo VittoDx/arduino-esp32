@@ -2,6 +2,22 @@
 { "board": "espressif:esp32:esp32",
                 "target": "esp32",
                 "sketches": [
+{"name": "libraries/Zigbee/examples/Zigbee_Fan_Control",
+                    "sizes": [{
+                            "flash_bytes": 657121,
+                            "flash_percentage": 50,
+                            "ram_bytes": 38932,
+                            "ram_percentage": 11
+                            }]
+                    },
+{"name": "libraries/Zigbee/examples/Zigbee_Gateway",
+                    "sizes": [{
+                            "flash_bytes": 1280669,
+                            "flash_percentage": 37,
+                            "ram_bytes": 64132,
+                            "ram_percentage": 19
+                            }]
+                    },
 {"name": "libraries/Zigbee/examples/Zigbee_Multistate_Input_Output",
                     "sizes": [{
                             "flash_bytes": 643072,

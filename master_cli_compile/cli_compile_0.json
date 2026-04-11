@@ -4,7 +4,7 @@
                 "sketches": [
 {"name": "libraries/ArduinoOTA/examples/BasicOTA",
                     "sizes": [{
-                            "flash_bytes": 969951,
+                            "flash_bytes": 969999,
                             "flash_percentage": 74,
                             "ram_bytes": 51424,
                             "ram_percentage": 15
@@ -12,7 +12,7 @@
                     },
 {"name": "libraries/ArduinoOTA/examples/SignedOTA",
                     "sizes": [{
-                            "flash_bytes": 975703,
+                            "flash_bytes": 975759,
                             "flash_percentage": 74,
                             "ram_bytes": 51488,
                             "ram_percentage": 15
@@ -153,7 +153,7 @@
                 "sketches": [
 {"name": "libraries/ArduinoOTA/examples/BasicOTA",
                     "sizes": [{
-                            "flash_bytes": 1021419,
+                            "flash_bytes": 1021427,
                             "flash_percentage": 77,
                             "ram_bytes": 41660,
                             "ram_percentage": 12
@@ -161,7 +161,7 @@
                     },
 {"name": "libraries/ArduinoOTA/examples/SignedOTA",
                     "sizes": [{
-                            "flash_bytes": 1027055,
+                            "flash_bytes": 1027077,
                             "flash_percentage": 78,
                             "ram_bytes": 41716,
                             "ram_percentage": 12
@@ -294,7 +294,7 @@
                 "sketches": [
 {"name": "libraries/ArduinoOTA/examples/BasicOTA",
                     "sizes": [{
-                            "flash_bytes": 1086405,
+                            "flash_bytes": 1086413,
                             "flash_percentage": 82,
                             "ram_bytes": 53696,
                             "ram_percentage": 16
@@ -302,7 +302,7 @@
                     },
 {"name": "libraries/ArduinoOTA/examples/SignedOTA",
                     "sizes": [{
-                            "flash_bytes": 1093531,
+                            "flash_bytes": 1093553,
                             "flash_percentage": 83,
                             "ram_bytes": 53760,
                             "ram_percentage": 16
@@ -451,7 +451,7 @@
                 "sketches": [
 {"name": "libraries/ArduinoOTA/examples/BasicOTA",
                     "sizes": [{
-                            "flash_bytes": 1043662,
+                            "flash_bytes": 1043670,
                             "flash_percentage": 79,
                             "ram_bytes": 47520,
                             "ram_percentage": 14
@@ -459,7 +459,7 @@
                     },
 {"name": "libraries/ArduinoOTA/examples/SignedOTA",
                     "sizes": [{
-                            "flash_bytes": 1050788,
+                            "flash_bytes": 1050810,
                             "flash_percentage": 80,
                             "ram_bytes": 47584,
                             "ram_percentage": 14
@@ -709,7 +709,7 @@
                 "sketches": [
 {"name": "libraries/ArduinoOTA/examples/BasicOTA",
                     "sizes": [{
-                            "flash_bytes": 882160,
+                            "flash_bytes": 882168,
                             "flash_percentage": 67,
                             "ram_bytes": 35832,
                             "ram_percentage": 10
@@ -717,7 +717,7 @@
                     },
 {"name": "libraries/ArduinoOTA/examples/SignedOTA",
                     "sizes": [{
-                            "flash_bytes": 944806,
+                            "flash_bytes": 944828,
                             "flash_percentage": 72,
                             "ram_bytes": 36132,
                             "ram_percentage": 11
@@ -834,7 +834,7 @@
                 "sketches": [
 {"name": "libraries/ArduinoOTA/examples/BasicOTA",
                     "sizes": [{
-                            "flash_bytes": 905984,
+                            "flash_bytes": 906024,
                             "flash_percentage": 69,
                             "ram_bytes": 46420,
                             "ram_percentage": 14
@@ -842,7 +842,7 @@
                     },
 {"name": "libraries/ArduinoOTA/examples/SignedOTA",
                     "sizes": [{
-                            "flash_bytes": 910668,
+                            "flash_bytes": 910720,
                             "flash_percentage": 69,
                             "ram_bytes": 46468,
                             "ram_percentage": 14
@@ -975,7 +975,7 @@
                 "sketches": [
 {"name": "libraries/ArduinoOTA/examples/BasicOTA",
                     "sizes": [{
-                            "flash_bytes": 944739,
+                            "flash_bytes": 944779,
                             "flash_percentage": 72,
                             "ram_bytes": 50528,
                             "ram_percentage": 15
@@ -983,7 +983,7 @@
                     },
 {"name": "libraries/ArduinoOTA/examples/SignedOTA",
                     "sizes": [{
-                            "flash_bytes": 950375,
+                            "flash_bytes": 950435,
                             "flash_percentage": 72,
                             "ram_bytes": 50600,
                             "ram_percentage": 15

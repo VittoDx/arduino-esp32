@@ -2,9 +2,25 @@
 { "board": "espressif:esp32:esp32",
                 "target": "esp32",
                 "sketches": [
+{"name": "libraries/WebServer/examples/UploadHugeFile",
+                    "sizes": [{
+                            "flash_bytes": 1294269,
+                            "flash_percentage": 41,
+                            "ram_bytes": 53620,
+                            "ram_percentage": 16
+                            }]
+                    },
+{"name": "libraries/WebServer/examples/WebServer",
+                    "sizes": [{
+                            "flash_bytes": 1045534,
+                            "flash_percentage": 79,
+                            "ram_bytes": 47764,
+                            "ram_percentage": 14
+                            }]
+                    },
 {"name": "libraries/WebServer/examples/WebUpdate",
                     "sizes": [{
-                            "flash_bytes": 993404,
+                            "flash_bytes": 993436,
                             "flash_percentage": 75,
                             "ram_bytes": 49680,
                             "ram_percentage": 15
@@ -125,22 +141,6 @@
 {"name": "libraries/WiFi/examples/WiFiMulti",
                     "sizes": [{
                             "flash_bytes": 1000104,
-                            "flash_percentage": 76,
-                            "ram_bytes": 46040,
-                            "ram_percentage": 14
-                            }]
-                    },
-{"name": "libraries/WiFi/examples/WiFiMultiAdvanced",
-                    "sizes": [{
-                            "flash_bytes": 1074924,
-                            "flash_percentage": 82,
-                            "ram_bytes": 48656,
-                            "ram_percentage": 14
-                            }]
-                    },
-{"name": "libraries/WiFi/examples/WiFiMultiEnterprise",
-                    "sizes": [{
-                            "flash_bytes": 1000200,
                             "flash_percentage": 76,
                             "ram_bytes": 46040,
                             "ram_percentage": 14
@@ -709,7 +709,7 @@
                 "sketches": [
 {"name": "libraries/WebServer/examples/HttpAuthCallback",
                     "sizes": [{
-                            "flash_bytes": 916466,
+                            "flash_bytes": 916474,
                             "flash_percentage": 69,
                             "ram_bytes": 36408,
                             "ram_percentage": 11
@@ -717,7 +717,7 @@
                     },
 {"name": "libraries/WebServer/examples/HttpAuthCallbackInline",
                     "sizes": [{
-                            "flash_bytes": 915798,
+                            "flash_bytes": 915806,
                             "flash_percentage": 69,
                             "ram_bytes": 36312,
                             "ram_percentage": 11
@@ -725,7 +725,7 @@
                     },
 {"name": "libraries/WebServer/examples/HttpBasicAuth",
                     "sizes": [{
-                            "flash_bytes": 915888,
+                            "flash_bytes": 915896,
                             "flash_percentage": 69,
                             "ram_bytes": 36312,
                             "ram_percentage": 11
@@ -733,7 +733,7 @@
                     },
 {"name": "libraries/WebServer/examples/HttpBasicAuthSHA1",
                     "sizes": [{
-                            "flash_bytes": 925022,
+                            "flash_bytes": 925030,
                             "flash_percentage": 70,
                             "ram_bytes": 36312,
                             "ram_percentage": 11
@@ -741,7 +741,7 @@
                     },
 {"name": "libraries/WebServer/examples/HttpBasicAuthSHA1orBearerToken",
                     "sizes": [{
-                            "flash_bytes": 925732,
+                            "flash_bytes": 925740,
                             "flash_percentage": 70,
                             "ram_bytes": 36344,
                             "ram_percentage": 11
@@ -789,7 +789,7 @@
                     },
 {"name": "libraries/WebServer/examples/WebServer",
                     "sizes": [{
-                            "flash_bytes": 957234,
+                            "flash_bytes": 957258,
                             "flash_percentage": 73,
                             "ram_bytes": 31960,
                             "ram_percentage": 9
@@ -797,7 +797,7 @@
                     },
 {"name": "libraries/WebServer/examples/WebUpdate",
                     "sizes": [{
-                            "flash_bytes": 899910,
+                            "flash_bytes": 899934,
                             "flash_percentage": 68,
                             "ram_bytes": 34232,
                             "ram_percentage": 10
@@ -874,7 +874,7 @@
                     },
 {"name": "libraries/WebServer/examples/WebServer",
                     "sizes": [{
-                            "flash_bytes": 965627,
+                            "flash_bytes": 965651,
                             "flash_percentage": 73,
                             "ram_bytes": 42412,
                             "ram_percentage": 12
@@ -882,7 +882,7 @@
                     },
 {"name": "libraries/WebServer/examples/WebUpdate",
                     "sizes": [{
-                            "flash_bytes": 929696,
+                            "flash_bytes": 929720,
                             "flash_percentage": 70,
                             "ram_bytes": 44796,
                             "ram_percentage": 13
@@ -1015,7 +1015,7 @@
                     },
 {"name": "libraries/WebServer/examples/WebServer",
                     "sizes": [{
-                            "flash_bytes": 998242,
+                            "flash_bytes": 998262,
                             "flash_percentage": 76,
                             "ram_bytes": 46528,
                             "ram_percentage": 14
@@ -1023,7 +1023,7 @@
                     },
 {"name": "libraries/WebServer/examples/WebUpdate",
                     "sizes": [{
-                            "flash_bytes": 968235,
+                            "flash_bytes": 968259,
                             "flash_percentage": 73,
                             "ram_bytes": 48888,
                             "ram_percentage": 14

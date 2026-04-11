@@ -2,6 +2,22 @@
 { "board": "espressif:esp32:esp32",
                 "target": "esp32",
                 "sketches": [
+{"name": "libraries/ESP32/examples/Serial/onReceiveExample",
+                    "sizes": [{
+                            "flash_bytes": 294196,
+                            "flash_percentage": 22,
+                            "ram_bytes": 22164,
+                            "ram_percentage": 6
+                            }]
+                    },
+{"name": "libraries/ESP32/examples/Serial/print64bitVariable",
+                    "sizes": [{
+                            "flash_bytes": 294540,
+                            "flash_percentage": 22,
+                            "ram_bytes": 22148,
+                            "ram_percentage": 6
+                            }]
+                    },
 {"name": "libraries/ESP32/examples/TWAI/TWAIreceive",
                     "sizes": [{
                             "flash_bytes": 299748,
@@ -128,22 +144,6 @@
                             "flash_percentage": 69,
                             "ram_bytes": 45640,
                             "ram_percentage": 13
-                            }]
-                    },
-{"name": "libraries/ESPmDNS/examples/mDNS-SD_Extended",
-                    "sizes": [{
-                            "flash_bytes": 933420,
-                            "flash_percentage": 71,
-                            "ram_bytes": 47776,
-                            "ram_percentage": 14
-                            }]
-                    },
-{"name": "libraries/ESPmDNS/examples/mDNS_Web_Server",
-                    "sizes": [{
-                            "flash_bytes": 952220,
-                            "flash_percentage": 72,
-                            "ram_bytes": 49080,
-                            "ram_percentage": 14
                             }]
                     }
 ]
@@ -374,7 +374,7 @@
                     },
 {"name": "libraries/HTTPUpdate/examples/httpUpdate",
                     "sizes": [{
-                            "flash_bytes": 1188301,
+                            "flash_bytes": 1188325,
                             "flash_percentage": 90,
                             "ram_bytes": 50208,
                             "ram_percentage": 15
@@ -382,7 +382,7 @@
                     },
 {"name": "libraries/HTTPUpdate/examples/httpUpdateSPIFFS",
                     "sizes": [{
-                            "flash_bytes": 1187669,
+                            "flash_bytes": 1187693,
                             "flash_percentage": 90,
                             "ram_bytes": 50208,
                             "ram_percentage": 15
@@ -390,7 +390,7 @@
                     },
 {"name": "libraries/HTTPUpdate/examples/httpUpdateSecure",
                     "sizes": [{
-                            "flash_bytes": 1227615,
+                            "flash_bytes": 1227639,
                             "flash_percentage": 39,
                             "ram_bytes": 50256,
                             "ram_percentage": 15
@@ -398,7 +398,7 @@
                     },
 {"name": "libraries/HTTPUpdateServer/examples/WebUpdater",
                     "sizes": [{
-                            "flash_bytes": 1107645,
+                            "flash_bytes": 1107669,
                             "flash_percentage": 84,
                             "ram_bytes": 52112,
                             "ram_percentage": 15
@@ -406,7 +406,7 @@
                     },
 {"name": "libraries/Hash/examples/HEX",
                     "sizes": [{
-                            "flash_bytes": 292544,
+                            "flash_bytes": 292568,
                             "flash_percentage": 22,
                             "ram_bytes": 17276,
                             "ram_percentage": 5
@@ -414,7 +414,7 @@
                     },
 {"name": "libraries/Hash/examples/MD5",
                     "sizes": [{
-                            "flash_bytes": 292776,
+                            "flash_bytes": 292800,
                             "flash_percentage": 22,
                             "ram_bytes": 17276,
                             "ram_percentage": 5
@@ -422,7 +422,7 @@
                     },
 {"name": "libraries/Hash/examples/PBKDF2_HMAC",
                     "sizes": [{
-                            "flash_bytes": 308316,
+                            "flash_bytes": 308324,
                             "flash_percentage": 23,
                             "ram_bytes": 17276,
                             "ram_percentage": 5
@@ -430,7 +430,7 @@
                     },
 {"name": "libraries/Hash/examples/SHA1",
                     "sizes": [{
-                            "flash_bytes": 299096,
+                            "flash_bytes": 299120,
                             "flash_percentage": 22,
                             "ram_bytes": 17276,
                             "ram_percentage": 5
@@ -438,7 +438,7 @@
                     },
 {"name": "libraries/Hash/examples/SHA2",
                     "sizes": [{
-                            "flash_bytes": 297538,
+                            "flash_bytes": 297540,
                             "flash_percentage": 22,
                             "ram_bytes": 17292,
                             "ram_percentage": 5
@@ -547,7 +547,7 @@
                     },
 {"name": "libraries/HTTPUpdate/examples/httpUpdate",
                     "sizes": [{
-                            "flash_bytes": 1136978,
+                            "flash_bytes": 1137002,
                             "flash_percentage": 86,
                             "ram_bytes": 44040,
                             "ram_percentage": 13
@@ -555,7 +555,7 @@
                     },
 {"name": "libraries/HTTPUpdate/examples/httpUpdateSPIFFS",
                     "sizes": [{
-                            "flash_bytes": 1136342,
+                            "flash_bytes": 1136366,
                             "flash_percentage": 86,
                             "ram_bytes": 44040,
                             "ram_percentage": 13
@@ -563,7 +563,7 @@
                     },
 {"name": "libraries/HTTPUpdate/examples/httpUpdateSecure",
                     "sizes": [{
-                            "flash_bytes": 1169142,
+                            "flash_bytes": 1169166,
                             "flash_percentage": 37,
                             "ram_bytes": 44072,
                             "ram_percentage": 13
@@ -571,7 +571,7 @@
                     },
 {"name": "libraries/HTTPUpdateServer/examples/WebUpdater",
                     "sizes": [{
-                            "flash_bytes": 1065040,
+                            "flash_bytes": 1065064,
                             "flash_percentage": 81,
                             "ram_bytes": 45936,
                             "ram_percentage": 14
@@ -579,7 +579,7 @@
                     },
 {"name": "libraries/Hash/examples/HEX",
                     "sizes": [{
-                            "flash_bytes": 251584,
+                            "flash_bytes": 251608,
                             "flash_percentage": 19,
                             "ram_bytes": 13756,
                             "ram_percentage": 4
@@ -587,7 +587,7 @@
                     },
 {"name": "libraries/Hash/examples/MD5",
                     "sizes": [{
-                            "flash_bytes": 251802,
+                            "flash_bytes": 251826,
                             "flash_percentage": 19,
                             "ram_bytes": 13756,
                             "ram_percentage": 4
@@ -595,7 +595,7 @@
                     },
 {"name": "libraries/Hash/examples/PBKDF2_HMAC",
                     "sizes": [{
-                            "flash_bytes": 267336,
+                            "flash_bytes": 267344,
                             "flash_percentage": 20,
                             "ram_bytes": 13756,
                             "ram_percentage": 4
@@ -898,7 +898,7 @@
                     },
 {"name": "libraries/HTTPUpdate/examples/httpUpdate",
                     "sizes": [{
-                            "flash_bytes": 1004032,
+                            "flash_bytes": 1004056,
                             "flash_percentage": 76,
                             "ram_bytes": 42964,
                             "ram_percentage": 13
@@ -906,7 +906,7 @@
                     },
 {"name": "libraries/HTTPUpdate/examples/httpUpdateSPIFFS",
                     "sizes": [{
-                            "flash_bytes": 1003320,
+                            "flash_bytes": 1003344,
                             "flash_percentage": 76,
                             "ram_bytes": 42964,
                             "ram_percentage": 13
@@ -914,7 +914,7 @@
                     },
 {"name": "libraries/HTTPUpdate/examples/httpUpdateSecure",
                     "sizes": [{
-                            "flash_bytes": 1041896,
+                            "flash_bytes": 1041920,
                             "flash_percentage": 33,
                             "ram_bytes": 42988,
                             "ram_percentage": 13
@@ -922,7 +922,7 @@
                     },
 {"name": "libraries/HTTPUpdateServer/examples/WebUpdater",
                     "sizes": [{
-                            "flash_bytes": 932452,
+                            "flash_bytes": 932476,
                             "flash_percentage": 71,
                             "ram_bytes": 44836,
                             "ram_percentage": 13
@@ -930,7 +930,7 @@
                     },
 {"name": "libraries/Hash/examples/HEX",
                     "sizes": [{
-                            "flash_bytes": 255060,
+                            "flash_bytes": 255084,
                             "flash_percentage": 19,
                             "ram_bytes": 16504,
                             "ram_percentage": 5
@@ -938,7 +938,7 @@
                     },
 {"name": "libraries/Hash/examples/MD5",
                     "sizes": [{
-                            "flash_bytes": 255208,
+                            "flash_bytes": 255232,
                             "flash_percentage": 19,
                             "ram_bytes": 16504,
                             "ram_percentage": 5
@@ -946,7 +946,7 @@
                     },
 {"name": "libraries/Hash/examples/PBKDF2_HMAC",
                     "sizes": [{
-                            "flash_bytes": 268516,
+                            "flash_bytes": 268560,
                             "flash_percentage": 20,
                             "ram_bytes": 16504,
                             "ram_percentage": 5
@@ -954,7 +954,7 @@
                     },
 {"name": "libraries/Hash/examples/SHA1",
                     "sizes": [{
-                            "flash_bytes": 261656,
+                            "flash_bytes": 261680,
                             "flash_percentage": 19,
                             "ram_bytes": 16504,
                             "ram_percentage": 5
@@ -962,7 +962,7 @@
                     },
 {"name": "libraries/Hash/examples/SHA2",
                     "sizes": [{
-                            "flash_bytes": 260240,
+                            "flash_bytes": 260280,
                             "flash_percentage": 19,
                             "ram_bytes": 16520,
                             "ram_percentage": 5

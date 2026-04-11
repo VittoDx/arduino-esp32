@@ -114,36 +114,36 @@
                             "ram_percentage": 6
                             }]
                     },
+{"name": "libraries/ESP32/examples/HFP_HCI_Audio",
+                    "sizes": [{
+                            "flash_bytes": 1060300,
+                            "flash_percentage": 33,
+                            "ram_bytes": 40788,
+                            "ram_percentage": 12
+                            }]
+                    },
+{"name": "libraries/ESP32/examples/HFP_HCI_Audio_I2S",
+                    "sizes": [{
+                            "flash_bytes": 1090788,
+                            "flash_percentage": 34,
+                            "ram_bytes": 45636,
+                            "ram_percentage": 13
+                            }]
+                    },
 {"name": "libraries/ESP32/examples/MacAddress/GetMacAddress",
                     "sizes": [{
-                            "flash_bytes": 297596,
-                            "flash_percentage": 22,
+                            "flash_bytes": 297628,
+                            "flash_percentage": 9,
                             "ram_bytes": 22276,
                             "ram_percentage": 6
                             }]
                     },
 {"name": "libraries/ESP32/examples/RMT/Legacy_RMT_Driver_Compatible",
                     "sizes": [{
-                            "flash_bytes": 296148,
-                            "flash_percentage": 22,
+                            "flash_bytes": 296180,
+                            "flash_percentage": 9,
                             "ram_bytes": 22284,
                             "ram_percentage": 6
-                            }]
-                    },
-{"name": "libraries/ESP32/examples/RMT/RMTCallback",
-                    "sizes": [{
-                            "flash_bytes": 310301,
-                            "flash_percentage": 23,
-                            "ram_bytes": 23684,
-                            "ram_percentage": 7
-                            }]
-                    },
-{"name": "libraries/ESP32/examples/RMT/RMTLoopback",
-                    "sizes": [{
-                            "flash_bytes": 311669,
-                            "flash_percentage": 23,
-                            "ram_bytes": 24916,
-                            "ram_percentage": 7
                             }]
                     }
 ]

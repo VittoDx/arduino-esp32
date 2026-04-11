@@ -2,6 +2,22 @@
 { "board": "espressif:esp32:esp32",
                 "target": "esp32",
                 "sketches": [
+{"name": "libraries/WiFi/examples/WiFiMultiAdvanced",
+                    "sizes": [{
+                            "flash_bytes": 1074924,
+                            "flash_percentage": 82,
+                            "ram_bytes": 48656,
+                            "ram_percentage": 14
+                            }]
+                    },
+{"name": "libraries/WiFi/examples/WiFiMultiEnterprise",
+                    "sizes": [{
+                            "flash_bytes": 1000200,
+                            "flash_percentage": 76,
+                            "ram_bytes": 46040,
+                            "ram_percentage": 14
+                            }]
+                    },
 {"name": "libraries/WiFi/examples/WiFiScan",
                     "sizes": [{
                             "flash_bytes": 901008,
@@ -128,22 +144,6 @@
                             "flash_percentage": 49,
                             "ram_bytes": 38308,
                             "ram_percentage": 11
-                            }]
-                    },
-{"name": "libraries/Zigbee/examples/Zigbee_Fan_Control",
-                    "sizes": [{
-                            "flash_bytes": 657121,
-                            "flash_percentage": 50,
-                            "ram_bytes": 38932,
-                            "ram_percentage": 11
-                            }]
-                    },
-{"name": "libraries/Zigbee/examples/Zigbee_Gateway",
-                    "sizes": [{
-                            "flash_bytes": 1280669,
-                            "flash_percentage": 37,
-                            "ram_bytes": 64132,
-                            "ram_percentage": 19
                             }]
                     }
 ]

@@ -2,6 +2,22 @@
 { "board": "espressif:esp32:esp32",
                 "target": "esp32",
                 "sketches": [
+{"name": "libraries/Matter/examples/MatterTemperatureControlledCabinetLevels",
+                    "sizes": [{
+                            "flash_bytes": 1739547,
+                            "flash_percentage": 55,
+                            "ram_bytes": 108312,
+                            "ram_percentage": 33
+                            }]
+                    },
+{"name": "libraries/Matter/examples/MatterTemperatureLight",
+                    "sizes": [{
+                            "flash_bytes": 1776290,
+                            "flash_percentage": 56,
+                            "ram_bytes": 108544,
+                            "ram_percentage": 33
+                            }]
+                    },
 {"name": "libraries/Matter/examples/MatterTemperatureSensor",
                     "sizes": [{
                             "flash_bytes": 1738363,
@@ -128,22 +144,6 @@
                             "flash_percentage": 22,
                             "ram_bytes": 22172,
                             "ram_percentage": 6
-                            }]
-                    },
-{"name": "libraries/Preferences/examples/StartCounter",
-                    "sizes": [{
-                            "flash_bytes": 300908,
-                            "flash_percentage": 22,
-                            "ram_bytes": 22172,
-                            "ram_percentage": 6
-                            }]
-                    },
-{"name": "libraries/SD/examples/SD_Test",
-                    "sizes": [{
-                            "flash_bytes": 357298,
-                            "flash_percentage": 27,
-                            "ram_bytes": 23248,
-                            "ram_percentage": 7
                             }]
                     }
 ]
@@ -414,7 +414,7 @@
                     },
 {"name": "libraries/Update/examples/AWS_S3_OTA_Update",
                     "sizes": [{
-                            "flash_bytes": 1035343,
+                            "flash_bytes": 1035367,
                             "flash_percentage": 78,
                             "ram_bytes": 49280,
                             "ram_percentage": 15
@@ -422,7 +422,7 @@
                     },
 {"name": "libraries/Update/examples/HTTPS_OTA_Update",
                     "sizes": [{
-                            "flash_bytes": 1136487,
+                            "flash_bytes": 1136511,
                             "flash_percentage": 86,
                             "ram_bytes": 49692,
                             "ram_percentage": 15
@@ -430,7 +430,7 @@
                     },
 {"name": "libraries/Update/examples/HTTP_Client_AES_OTA_Update",
                     "sizes": [{
-                            "flash_bytes": 1079931,
+                            "flash_bytes": 1079955,
                             "flash_percentage": 82,
                             "ram_bytes": 49360,
                             "ram_percentage": 15
@@ -438,7 +438,7 @@
                     },
 {"name": "libraries/Update/examples/HTTP_Server_AES_OTA_Update",
                     "sizes": [{
-                            "flash_bytes": 1117019,
+                            "flash_bytes": 1117043,
                             "flash_percentage": 85,
                             "ram_bytes": 52168,
                             "ram_percentage": 15
@@ -587,7 +587,7 @@
                     },
 {"name": "libraries/Update/examples/AWS_S3_OTA_Update",
                     "sizes": [{
-                            "flash_bytes": 992634,
+                            "flash_bytes": 992658,
                             "flash_percentage": 75,
                             "ram_bytes": 43096,
                             "ram_percentage": 13
@@ -595,7 +595,7 @@
                     },
 {"name": "libraries/Update/examples/HTTPS_OTA_Update",
                     "sizes": [{
-                            "flash_bytes": 1111848,
+                            "flash_bytes": 1111872,
                             "flash_percentage": 84,
                             "ram_bytes": 42892,
                             "ram_percentage": 13

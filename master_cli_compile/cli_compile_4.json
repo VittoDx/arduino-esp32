@@ -2,6 +2,22 @@
 { "board": "espressif:esp32:esp32",
                 "target": "esp32",
                 "sketches": [
+{"name": "libraries/ESP32/examples/RMT/RMTCallback",
+                    "sizes": [{
+                            "flash_bytes": 310301,
+                            "flash_percentage": 23,
+                            "ram_bytes": 23684,
+                            "ram_percentage": 7
+                            }]
+                    },
+{"name": "libraries/ESP32/examples/RMT/RMTLoopback",
+                    "sizes": [{
+                            "flash_bytes": 311669,
+                            "flash_percentage": 23,
+                            "ram_bytes": 24916,
+                            "ram_percentage": 7
+                            }]
+                    },
 {"name": "libraries/ESP32/examples/RMT/RMTReadXJT",
                     "sizes": [{
                             "flash_bytes": 310777,
@@ -127,22 +143,6 @@
                             "flash_bytes": 294843,
                             "flash_percentage": 22,
                             "ram_bytes": 22252,
-                            "ram_percentage": 6
-                            }]
-                    },
-{"name": "libraries/ESP32/examples/Serial/onReceiveExample",
-                    "sizes": [{
-                            "flash_bytes": 294196,
-                            "flash_percentage": 22,
-                            "ram_bytes": 22164,
-                            "ram_percentage": 6
-                            }]
-                    },
-{"name": "libraries/ESP32/examples/Serial/print64bitVariable",
-                    "sizes": [{
-                            "flash_bytes": 294540,
-                            "flash_percentage": 22,
-                            "ram_bytes": 22148,
                             "ram_percentage": 6
                             }]
                     }
