@@ -930,7 +930,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterTemperatureControlledCabinetLevels",
                     "sizes": [{
-                            "flash_bytes": 1640047,
+                            "flash_bytes": 1640039,
                             "flash_percentage": 52,
                             "ram_bytes": 94316,
                             "ram_percentage": 28
@@ -938,7 +938,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterTemperatureLight",
                     "sizes": [{
-                            "flash_bytes": 1687608,
+                            "flash_bytes": 1687616,
                             "flash_percentage": 53,
                             "ram_bytes": 94516,
                             "ram_percentage": 28
