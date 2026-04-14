@@ -187,7 +187,7 @@ The MatterHumiditySensor example consists of the following main components:
 <!-- vale Microsoft.Percentages = NO -->
 - **Humidity values out of range**: Ensure humidity values are between 0-100%. The Matter protocol stores values as 1/100th of a percent internally
 <!-- vale Microsoft.Percentages = YES -->
-- **Failed to commission**: Try factory resetting the device by long-pressing the button. Other option would be to erase the SoC Flash Memory by using `Arduino IDE Menu` -> `Tools` -> `Erase All Flash Before Sketch Upload: "Enabled"` or directly with `esptool.py --port <PORT> erase_flash`
+- **Failed to commission**: Try factory resetting the device by long-pressing the button. Other option would be to erase the SoC Flash Memory by using `Arduino IDE Menu` -> `Tools` -> `Erase All Flash Before Sketch Upload: "Enabled"` or directly with `esptool --port <PORT> erase_flash`
 - **No serial output**: Check baudrate (115200) and USB connection
 
 ## Related Documentation

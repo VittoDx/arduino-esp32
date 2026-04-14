@@ -166,7 +166,7 @@ This minimal example can be extended with additional features:
 
 - **Device not visible during commissioning**: Ensure Wi-Fi or Thread connectivity is properly configured
 - **LED not responding**: Verify pin configurations and connections. The LED will only respond to Matter app commands after commissioning
-- **Failed to commission**: Try erasing the SoC Flash Memory by using `Arduino IDE Menu` -> `Tools` -> `Erase All Flash Before Sketch Upload: "Enabled"` or directly with `esptool.py --port <PORT> erase_flash`
+- **Failed to commission**: Try erasing the SoC Flash Memory by using `Arduino IDE Menu` -> `Tools` -> `Erase All Flash Before Sketch Upload: "Enabled"` or directly with `esptool --port <PORT> erase_flash`
 - **No serial output**: Check baudrate (115200) and USB connection
 - **LED not turning on/off**: Ensure the device is commissioned and you're controlling it via a Matter app. The minimal example only responds to Matter controller commands, not local button presses
 

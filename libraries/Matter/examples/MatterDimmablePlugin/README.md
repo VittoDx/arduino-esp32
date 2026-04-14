@@ -212,7 +212,7 @@ The MatterDimmablePlugin example consists of the following main components:
 - **Level control not working**: For dimmer control, verify the pin supports PWM. Check that `analogWrite()` or `rgbLedWrite()` (for RGB LED) is working correctly on your board. On boards with RGB LED, the brightness will change based on the level value (0-255)
 - **State not persisting**: Check that the `Preferences` library is properly initialized and that flash memory is not corrupted
 - **Relay not switching**: For relay modules, verify the control signal voltage levels match your relay module requirements (some relays need 5 V, others work with 3.3 V)
-- **Failed to commission**: Try factory resetting the device by long-pressing the button. Other option would be to erase the SoC Flash Memory by using `Arduino IDE Menu` -> `Tools` -> `Erase All Flash Before Sketch Upload: "Enabled"` or directly with `esptool.py --port <PORT> erase_flash`
+- **Failed to commission**: Try factory resetting the device by long-pressing the button. Other option would be to erase the SoC Flash Memory by using `Arduino IDE Menu` -> `Tools` -> `Erase All Flash Before Sketch Upload: "Enabled"` or directly with `esptool --port <PORT> erase_flash`
 - **No serial output**: Check baudrate (115200) and USB connection
 
 ## Related Documentation

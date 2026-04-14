@@ -194,7 +194,7 @@ The MatterOnOffPlugin example consists of the following main components:
 - **Relay/LED not responding**: Verify pin configurations and connections. For relay modules, ensure proper power supply and wiring
 - **State not persisting**: Check that the `Preferences` library is properly initialized and that flash memory is not corrupted
 - **Relay not switching**: For relay modules, verify the control signal voltage levels match your relay module requirements (some relays need 5 V, others work with 3.3 V)
-- **Failed to commission**: Try factory resetting the device by long-pressing the button. Other option would be to erase the SoC Flash Memory by using `Arduino IDE Menu` -> `Tools` -> `Erase All Flash Before Sketch Upload: "Enabled"` or directly with `esptool.py --port <PORT> erase_flash`
+- **Failed to commission**: Try factory resetting the device by long-pressing the button. Other option would be to erase the SoC Flash Memory by using `Arduino IDE Menu` -> `Tools` -> `Erase All Flash Before Sketch Upload: "Enabled"` or directly with `esptool --port <PORT> erase_flash`
 - **No serial output**: Check baudrate (115200) and USB connection
 
 ## Related Documentation

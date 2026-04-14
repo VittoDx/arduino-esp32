@@ -204,7 +204,7 @@ The example demonstrates the following API methods:
 - **Device not visible during commissioning**: Ensure Wi-Fi or Thread connectivity is properly configured
 - **Temperature level not updating**: Check Serial Monitor output to verify level changes are being processed
 - **Invalid level error**: Ensure the selected level is in the supported levels array
-- **Failed to commission**: Try factory resetting the device by long-pressing the button. Other option would be to erase the SoC Flash Memory by using `Arduino IDE Menu` -> `Tools` -> `Erase All Flash Before Sketch Upload: "Enabled"` or directly with `esptool.py --port <PORT> erase_flash`
+- **Failed to commission**: Try factory resetting the device by long-pressing the button. Other option would be to erase the SoC Flash Memory by using `Arduino IDE Menu` -> `Tools` -> `Erase All Flash Before Sketch Upload: "Enabled"` or directly with `esptool --port <PORT> erase_flash`
 - **No serial output**: Check baudrate (115200) and USB connection
 - **Wrong mode error**: Remember that temperature_number and temperature_level modes are mutually exclusive. Make sure you're using the correct example and API methods for temperature level mode
 

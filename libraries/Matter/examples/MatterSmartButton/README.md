@@ -170,7 +170,7 @@ The MatterSmartButton example consists of the following main components:
 - **Button clicks not registering**: Check Serial Monitor for "User button released" messages. Verify button wiring and that debounce time is appropriate
 - **Automations not triggering**: Ensure the device is commissioned and that automations are properly configured in your Matter app. The button sends events, but automations must be set up in the app
 - **Button not responding**: Verify button pin configuration and connections. Check that the button is properly connected with pull-up resistor (INPUT_PULLUP mode)
-- **Failed to commission**: Try factory resetting the device by long-pressing the button. Other option would be to erase the SoC Flash Memory by using `Arduino IDE Menu` -> `Tools` -> `Erase All Flash Before Sketch Upload: "Enabled"` or directly with `esptool.py --port <PORT> erase_flash`
+- **Failed to commission**: Try factory resetting the device by long-pressing the button. Other option would be to erase the SoC Flash Memory by using `Arduino IDE Menu` -> `Tools` -> `Erase All Flash Before Sketch Upload: "Enabled"` or directly with `esptool --port <PORT> erase_flash`
 - **No serial output**: Check baudrate (115200) and USB connection
 - **Multiple clicks registered for single press**: Increase the debounce time in the code if needed
 

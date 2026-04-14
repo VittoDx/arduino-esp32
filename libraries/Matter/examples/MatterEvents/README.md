@@ -176,7 +176,7 @@ The MatterEvents example consists of the following main components:
 
 - **Device not visible during commissioning**: Ensure Wi-Fi or Thread connectivity is properly configured
 - **No events displayed**: Verify that the event callback is properly registered using `Matter.onEvent()`
-- **Failed to commission**: Try waiting for the next cycle after decommissioning. Other option would be to erase the SoC Flash Memory by using `Arduino IDE Menu` -> `Tools` -> `Erase All Flash Before Sketch Upload: "Enabled"` or directly with `esptool.py --port <PORT> erase_flash`
+- **Failed to commission**: Try waiting for the next cycle after decommissioning. Other option would be to erase the SoC Flash Memory by using `Arduino IDE Menu` -> `Tools` -> `Erase All Flash Before Sketch Upload: "Enabled"` or directly with `esptool --port <PORT> erase_flash`
 - **No serial output**: Check baudrate (115200) and USB connection
 - **Device keeps decommissioning**: This is expected behavior - the device automatically decommissions after 60 seconds to allow continuous testing and event monitoring
 

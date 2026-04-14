@@ -190,7 +190,7 @@ The MatterFan example consists of the following main components:
 - **Fan speed not responding**: Verify PWM pin configuration and connections. For DC motor control, ensure the pin supports PWM output
 - **Analog input not working**: Verify analog pin configuration and that the input voltage is within the ESP32's ADC range (0-3.3V typically)
 - **Speed changes not synchronized**: The analog input is read continuously, and speed updates only when the value changes by a step (0-9 steps mapped to 10-100%)
-- **Failed to commission**: Try factory resetting the device by long-pressing the button. Other option would be to erase the SoC Flash Memory by using `Arduino IDE Menu` -> `Tools` -> `Erase All Flash Before Sketch Upload: "Enabled"` or directly with `esptool.py --port <PORT> erase_flash`
+- **Failed to commission**: Try factory resetting the device by long-pressing the button. Other option would be to erase the SoC Flash Memory by using `Arduino IDE Menu` -> `Tools` -> `Erase All Flash Before Sketch Upload: "Enabled"` or directly with `esptool --port <PORT> erase_flash`
 - **No serial output**: Check baudrate (115200) and USB connection
 
 ## Related Documentation

@@ -26,15 +26,15 @@ arduino-cli compile -u --programmer esptool
 
 ## Manual installation
 
-Once compiled, the binary can also be installed on a board using `esptool.py`
+Once compiled, the binary can also be installed on a board using `esptool`
 with the following command:
 
 ```
-esptool.py --chip esp32s3 --port "/dev/ttyACM0" --baud 921600  --before default_reset --after hard_reset write_flash  -z --flash_mode dio --flash_freq 80m --flash_size 16MB 0xF70000 "nora_recovery.ino.bin"
+esptool --chip esp32s3 --port "/dev/ttyACM0" --baud 921600  --before default_reset --after hard_reset write-flash -z --flash-mode dio --flash-freq 80m --flash-size 16MB 0xF70000 "nora_recovery.ino.bin"
 ```
 
 where:
-- `esptool.py` is located in your core's install path under `tools/esptool_py`;
+- `esptool` is located in your core's install path under `tools/esptool_py`;
 - `/dev/ttyACM0` is the serial port exposed by the board to be used;
 - `0xF70000` is the factory partition address (make sure it matches the
   offset in the variant's `{build.partitions}` file);
@@ -46,4 +46,4 @@ a known issue; calling the program again with the same arguments will now
 work correctly.
 
 Once flashing is complete, a power cycle (or RESET button tap) is required
-to leave the `esptool.py` flashing mode and load user sketches.
+to leave the `esptool` flashing mode and load user sketches.

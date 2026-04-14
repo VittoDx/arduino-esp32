@@ -200,7 +200,7 @@ The MatterLambdaSingleCallbackManyEPs example consists of the following main com
 - **Device not visible during commissioning**: Ensure Wi-Fi or Thread connectivity is properly configured
 - **Only some endpoints appear**: Some smart home platforms may group or display endpoints differently. Check your app's device list
 - **GPIO pins not responding**: Verify pin configurations match your hardware. Ensure pins are not used by other peripherals
-- **Failed to commission**: Try erasing the SoC Flash Memory by using `Arduino IDE Menu` -> `Tools` -> `Erase All Flash Before Sketch Upload: "Enabled"` or directly with `esptool.py --port <PORT> erase_flash`
+- **Failed to commission**: Try erasing the SoC Flash Memory by using `Arduino IDE Menu` -> `Tools` -> `Erase All Flash Before Sketch Upload: "Enabled"` or directly with `esptool --port <PORT> erase_flash`
 - **No serial output**: Check baudrate (115200) and USB connection
 - **Compilation errors with lambda functions**: Ensure you're using a C++11 compatible compiler (ESP32 Arduino Core 2.0+ supports this)
 

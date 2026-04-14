@@ -203,7 +203,7 @@ The MatterTemperatureLight example consists of the following main components:
 - **Color temperature not changing**: Verify that color temperature is within valid range (100-500 mireds). Check Serial Monitor for callback messages
 - **Brightness not responding**: Ensure LED pin supports PWM output. Check Serial Monitor for brightness change messages
 - **State not persisting**: Verify `Preferences` library is working correctly. Check that flash memory is not full
-- **Failed to commission**: Try factory resetting the device by long-pressing the button. Other option would be to erase the SoC Flash Memory by using `Arduino IDE Menu` -> `Tools` -> `Erase All Flash Before Sketch Upload: "Enabled"` or directly with `esptool.py --port <PORT> erase_flash`
+- **Failed to commission**: Try factory resetting the device by long-pressing the button. Other option would be to erase the SoC Flash Memory by using `Arduino IDE Menu` -> `Tools` -> `Erase All Flash Before Sketch Upload: "Enabled"` or directly with `esptool --port <PORT> erase_flash`
 - **No serial output**: Check baudrate (115200) and USB connection
 
 ## Related Documentation

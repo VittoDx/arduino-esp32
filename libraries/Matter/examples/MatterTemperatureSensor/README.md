@@ -202,7 +202,7 @@ The MatterTemperatureSensor example consists of the following main components:
 - **Temperature readings not updating**: Check that the sensor simulation function is being called correctly. For real sensors, verify sensor wiring and library initialization
 - **Temperature values out of range**: Ensure temperature values are in Celsius. The Matter protocol stores values as int16_t internally (1/100th of a degree Celsius), so -273.15°C (absolute zero) to 327.67°C is the valid range
 - **State not changing**: The simulated sensor increases by 0.5°C every 5 seconds. If you're using a real sensor, ensure it's properly connected and reading correctly
-- **Failed to commission**: Try factory resetting the device by long-pressing the button. Other option would be to erase the SoC Flash Memory by using `Arduino IDE Menu` -> `Tools` -> `Erase All Flash Before Sketch Upload: "Enabled"` or directly with `esptool.py --port <PORT> erase_flash`
+- **Failed to commission**: Try factory resetting the device by long-pressing the button. Other option would be to erase the SoC Flash Memory by using `Arduino IDE Menu` -> `Tools` -> `Erase All Flash Before Sketch Upload: "Enabled"` or directly with `esptool --port <PORT> erase_flash`
 - **No serial output**: Check baudrate (115200) and USB connection
 
 ## Related Documentation

@@ -187,7 +187,7 @@ The MatterPressureSensor example consists of the following main components:
 - **Pressure readings not updating**: Check that the sensor simulation function is being called correctly. For real sensors, verify sensor wiring and library initialization
 - **Pressure values out of range**: Ensure pressure values are in hectopascals (hPa). The Matter protocol stores values as uint16_t internally. Typical atmospheric pressure ranges from 950-1050 hPa at sea level
 - **State not changing**: The simulated sensor increases by 10 hPa every 5 seconds. If you're using a real sensor, ensure it's properly connected and reading correctly
-- **Failed to commission**: Try factory resetting the device by long-pressing the button. Other option would be to erase the SoC Flash Memory by using `Arduino IDE Menu` -> `Tools` -> `Erase All Flash Before Sketch Upload: "Enabled"` or directly with `esptool.py --port <PORT> erase_flash`
+- **Failed to commission**: Try factory resetting the device by long-pressing the button. Other option would be to erase the SoC Flash Memory by using `Arduino IDE Menu` -> `Tools` -> `Erase All Flash Before Sketch Upload: "Enabled"` or directly with `esptool --port <PORT> erase_flash`
 - **No serial output**: Check baudrate (115200) and USB connection
 
 ## Related Documentation

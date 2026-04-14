@@ -244,7 +244,7 @@ Common Issues
 **Commissioning fails**
   * Try factory resetting the device by calling ``Matter.decommission()``
   * Erase flash memory: ``Arduino IDE Menu`` -> ``Tools`` -> ``Erase All Flash Before Sketch Upload: "Enabled"``
-  * Or use esptool: ``esptool.py --port <PORT> erase_flash``
+  * Or use esptool: ``esptool --port <PORT> erase_flash``
 
 **Wi-Fi connection issues**
   * Verify Wi-Fi credentials (SSID and password) are correct

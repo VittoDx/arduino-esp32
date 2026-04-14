@@ -226,7 +226,7 @@ The MatterThermostat example consists of the following main components:
 - **Setpoints not working**: Ensure cooling setpoint is at least 2.5°C lower than heating setpoint in AUTO mode
 - **Serial input not working**: Make sure Serial Monitor is set to 115200 baud and "No line ending" or "Newline" is selected
 - **Invalid temperature values**: Temperature must be between -50°C and 50°C. The Matter protocol stores values as int16_t internally (1/100th of a degree Celsius)
-- **Failed to commission**: Try factory resetting the device by long-pressing the button. Other option would be to erase the SoC Flash Memory by using `Arduino IDE Menu` -> `Tools` -> `Erase All Flash Before Sketch Upload: "Enabled"` or directly with `esptool.py --port <PORT> erase_flash`
+- **Failed to commission**: Try factory resetting the device by long-pressing the button. Other option would be to erase the SoC Flash Memory by using `Arduino IDE Menu` -> `Tools` -> `Erase All Flash Before Sketch Upload: "Enabled"` or directly with `esptool --port <PORT> erase_flash`
 - **No serial output**: Check baudrate (115200) and USB connection
 
 ## Related Documentation

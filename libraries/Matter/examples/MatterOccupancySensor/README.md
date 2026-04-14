@@ -263,7 +263,7 @@ The MatterOccupancySensor example consists of the following main components:
   - Ensure the PIR sensor has a clear view of the detection area
   - Test the PIR sensor directly by reading the GPIO pin value in Serial Monitor
 - **PIR sensor false triggers**: Add debouncing to the sensor reading function (see the "Complete Modified Function Example" above)
-- **Failed to commission**: Try factory resetting the device by long-pressing the button. Other option would be to erase the SoC Flash Memory by using `Arduino IDE Menu` -> `Tools` -> `Erase All Flash Before Sketch Upload: "Enabled"` or directly with `esptool.py --port <PORT> erase_flash`
+- **Failed to commission**: Try factory resetting the device by long-pressing the button. Other option would be to erase the SoC Flash Memory by using `Arduino IDE Menu` -> `Tools` -> `Erase All Flash Before Sketch Upload: "Enabled"` or directly with `esptool --port <PORT> erase_flash`
 - **No serial output**: Check baudrate (115200) and USB connection
 
 ## Related Documentation

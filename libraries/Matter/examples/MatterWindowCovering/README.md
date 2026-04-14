@@ -228,7 +228,7 @@ The MatterWindowCovering example consists of the following main components:
 - **State not persisting**: Check that the `Preferences` library is properly initialized and that flash memory is not corrupted
 - **RGB LED not working**: For RGB LED, verify the pin supports RGB LED control. For non-RGB boards, ensure the pin supports PWM (analogWrite)
 - **Tilt not working**: Ensure the covering type supports tilt (e.g., `BLIND_LIFT_AND_TILT`, `SHUTTER`, or `BLIND_TILT_ONLY`) and that it is specified in `begin()`
-- **Failed to commission**: Try factory resetting the device by long-pressing the button. Other option would be to erase the SoC Flash Memory by using `Arduino IDE Menu` -> `Tools` -> `Erase All Flash Before Sketch Upload: "Enabled"` or directly with `esptool.py --port <PORT> erase_flash`
+- **Failed to commission**: Try factory resetting the device by long-pressing the button. Other option would be to erase the SoC Flash Memory by using `Arduino IDE Menu` -> `Tools` -> `Erase All Flash Before Sketch Upload: "Enabled"` or directly with `esptool --port <PORT> erase_flash`
 - **No serial output**: Check baudrate (115200) and USB connection
 
 ## Related Documentation
